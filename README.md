@@ -6,10 +6,10 @@ http://swcarpentry.github.io/shell-novice/
 ### show root directory
 
 ```
-sudo chflags nohidden directoryname
+sudo chflags nohidden /usr
 ```
 
 Reverse this by typing:
 ```
-sudo chflags hidden directoryname
+sudo chflags hidden /usr
 ```
