@@ -1,4 +1,4 @@
-#Using Homebrew
+# Using Homebrew
 
 To install a package (or Formula in Homebrew vocabulary) simply type:
 
