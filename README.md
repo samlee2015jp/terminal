@@ -46,6 +46,8 @@ If you are setting up a new repo, add at least one file and commit first. Then, 
 ```
 git remote add origin https://github.com/<username>/<repo-name>.git
 git push -u origin master
+  
+git config --global core.excludesfile ~/.gitignore
 ```
 
 # terminal
