@@ -35,6 +35,11 @@ brew info <formula>
 To uninstall a formula you can run:
 
 brew uninstall <formula>
+  
+# git
+```
+git config --global credential.helper osxkeychain
+```
 
 # terminal
 learning terminal
