@@ -1,3 +1,8 @@
+# mac setup
+
+https://sourabhbajaj.com/mac-setup/
+
+
 # Using Homebrew
 
 To install a package (or Formula in Homebrew vocabulary) simply type:
