@@ -40,6 +40,13 @@ brew uninstall <formula>
 ```
 git config --global credential.helper osxkeychain
 ```
+  
+If you are setting up a new repo, add at least one file and commit first. Then, configure the remote and push to GitHub by running:
+
+```
+git remote add origin https://github.com/<username>/<repo-name>.git
+git push -u origin master
+```
 
 # terminal
 learning terminal
